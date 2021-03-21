@@ -8,6 +8,7 @@ Some useful links that I learned from:
 - [Glossary of Genetic Terms](https://www.genome.gov/genetics-glossary)
 -[Marees AT, de Kluiver H, Stringer S, et al. A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis. Int J Methods Psychiatr Res. 2018;27:e1608 10.1002/mpr.1608](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/).
 - [Genome-Wide Association Analysis Using R](https://pubmed.ncbi.nlm.nih.gov/28132152/), by Julio Isidro-Sánchez et al.
+- Real data and data analysis were obtained from: McGinnis, R., Steinthorsdottir, V., Williams, N. et al. Variants in the fetal genome near FLT1 are associated with risk of preeclampsia. Nat Genet 49, 1255–1260 (2017). [https://doi.org/10.1038/ng.3895](https://doi.org/10.1038/ng.3895)
 
 First, let's start with some necessary introductory glossary. There might be new vocabulary later, but we will define them along the way.
 | Glossary     | Definition | Source     |
@@ -39,7 +40,7 @@ First, let's start with some necessary introductory glossary. There might be new
 
 
 ## 2. General pipeline.
-The pipeline listed here relied heavily on [Marees AT, de Kluiver H, Stringer S, et al. A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis. Int J Methods Psychiatr Res. 2018;27:e1608 10.1002/mpr.1608](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/). This publication is very well written, and I learned a lot from it.
+The pipeline listed here relied heavily on [Marees AT, de Kluiver H, Stringer S, et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/) This publication is very well written, and I learned a lot from it.
 1. Quality control: filtering out of SNPs and individuals based on:
 - Individual and SNp missingness
 - Sex discrepancy
@@ -52,4 +53,8 @@ The pipeline listed here relied heavily on [Marees AT, de Kluiver H, Stringer S,
 - Correction for multiple testing is necessary.
 
 Another pipeline can be found here: [Genome-Wide Association Analysis Using R](https://pubmed.ncbi.nlm.nih.gov/28132152/), by Julio Isidro-Sánchez et al.
+
+
 ## 3. Practice analyzing GWAS data.
+In this section, I will be attempting to replicate the study McGinnis, R., Steinthorsdottir, V., Williams, N. et al. (2017). [https://doi.org/10.1038/ng.3895](https://doi.org/10.1038/ng.3895). I chose this paper because I'm extremely biased towards any studies on the placenta/pregnancy health. And it also seemed like a fun paper :)
+

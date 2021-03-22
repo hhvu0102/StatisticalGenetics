@@ -56,5 +56,9 @@ Another pipeline can be found here: [Genome-Wide Association Analysis Using R](h
 
 
 ## 3. Practice analyzing GWAS data.
-In this section, I will be attempting to replicate the study McGinnis, R., Steinthorsdottir, V., Williams, N. et al. (2017). [https://doi.org/10.1038/ng.3895](https://doi.org/10.1038/ng.3895). I chose this paper because I'm extremely biased towards any studies on the placenta/pregnancy health. And it also seemed like a fun paper :)
+In this section, I will be attempting to replicate the GWAS 
+
+1. Data summary:
+
+2. Data analysis:
 

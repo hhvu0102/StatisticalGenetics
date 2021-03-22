@@ -8,7 +8,7 @@ Some useful links that I learned from:
 - [Glossary of Genetic Terms](https://www.genome.gov/genetics-glossary)
 - [Marees AT, de Kluiver H, Stringer S, et al. A tutorial on conducting genome‐wide association studies: Quality control and statistical analysis. Int J Methods Psychiatr Res. 2018;27:e1608 10.1002/mpr.1608](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/).
 - [Genome-Wide Association Analysis Using R](https://pubmed.ncbi.nlm.nih.gov/28132152/), by Julio Isidro-Sánchez et al.
-- Real data and data analysis were obtained from: McGinnis, R., Steinthorsdottir, V., Williams, N. et al. Variants in the fetal genome near FLT1 are associated with risk of preeclampsia. Nat Genet 49, 1255–1260 (2017). [https://doi.org/10.1038/ng.3895](https://doi.org/10.1038/ng.3895)
+- Real data and data analysis were obtained from: 
 
 First, let's start with some necessary introductory glossary. There might be new vocabulary later, but we will define them along the way.
 | Glossary     | Definition | Source     |

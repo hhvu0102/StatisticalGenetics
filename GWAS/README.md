@@ -43,7 +43,7 @@ First, let's start with some necessary introductory glossary. There might be new
 - Association mapping vs linkage mapping: Linkage mapping is **a highly controlled experiment**: individuals are crossed to generate a mapping population in which relatedness is known. Unlike linkage mapping, "association mapping [...] is **not a controlled experiment**, but rather a natural experiment. Genotype and phenotype data are collected from a population in which relatedness is not controlled by the experimenter, and correlations between genetic markers and phenotypes are sought within this population. Association mapping gives you point associations in the genome, whereas linkage mapping gives you QTL, chromosomal regions (https://www.r-bloggers.com/2017/10/genome-wide-association-studies-in-r/).
 
 ## 2. General pipeline.
-The pipeline listed here relied heavily on [Marees AT, de Kluiver H, Stringer S, et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/) This publication is very well written, and I learned a lot from it.
+The pipeline listed here relied heavily on [Marees AT, de Kluiver H, Stringer S, et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/) 
 1. Quality control: filtering out of SNPs and individuals based on:
 - Individual and SNP missingness
 - Sex discrepancy

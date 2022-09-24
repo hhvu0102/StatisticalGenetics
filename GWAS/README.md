@@ -59,9 +59,5 @@ Another pipeline can be found here: [Genome-Wide Association Analysis Using R](h
 
 
 ## 3. Practice analyzing GWAS data.
-In this section, I will be attempting to replicate the GWAS 
-
-1. Data summary:
-
-2. Data analysis:
+See \*.Rmd files
 

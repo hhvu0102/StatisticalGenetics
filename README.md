@@ -1,2 +1,2 @@
-# GWAS-QTLs-learn
-A self-learning project about GWAS and QTLs. It's an on-going thing :)
+# Statistical Genetics Notes
+A self-learning project about GWAS and e/caQTLs. It's an on-going thing :)
